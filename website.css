@@ -1,8 +1,10 @@
-body { 
+body{ 
     background-image: url("http://hdimagesnew.com/wp-content/uploads/2015/11/Pretty-HD-Backgrounds-4.jpg"); 
     background-repeat:no-repeat;
     background- position:"top-right ";
     text-align: center;
+    font-size: 10px;
+    
 } 
   .nav{
   margin: 0;
