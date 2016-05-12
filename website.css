@@ -1,16 +1,11 @@
 body{ 
     background-image: url("http://hdimagesnew.com/wp-content/uploads/2015/11/Pretty-HD-Backgrounds-4.jpg"); 
-    background-repeat:no-repeat;
+    background-repeat: 4;
     background- position:"top-right ";
     text-align: center;
     
 } 
-  .nav{
-  margin: 0;
-text-align:center ; 
-font-size: 20px; 
-text-align:center;
-}
+
 .nav > div {
   background: mediumaquamarine;
   float: left; 
@@ -20,8 +15,11 @@ text-align:center;
   border: 5px solid steelblue;
   border-radius:4px;
   text-align:center;
+   margin: 0;
+   font-size: 20px; 
+   text-align:center;
 }
-.nav > div:hover { 
+.nav > a:hover { 
 background: cornflowerblue;
 }
 .nav{
