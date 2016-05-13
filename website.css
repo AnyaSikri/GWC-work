@@ -5,6 +5,9 @@ body{
     text-align: center;
     
 } 
+p{ 
+    font-size: 15;
+} 
 
 .nav > div {
   background: mediumaquamarine;
